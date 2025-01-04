@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tom-onion/tom.git](https://github.com/tom-onion/tom.git)
 
-- 💬 Ask me about **Cyber-Security,HTML,C,C++,Java,JavaScript,Linux,.NET,Shell-Scripting,**
+- 💬 Ask me about **Cyber-Security,HTML,C,C++,Java,JavaScript,Linux,.NET,Shell-Scripting**
 
 - 📫 How to reach me **nanthdhaya7@outlook.com**
 
