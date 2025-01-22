@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JavaScript,XML.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tom-onion/tom.git](https://github.com/tom-onion/tom.git)
+- 👨‍💻 All of my projects are available at [https://github.com/tom-onion/tom.git](https://github.com/tom-onion)
 
 - 💬 Ask me about **Cyber-Security,HTML,C,C++,Java,JavaScript,Linux,.NET,Shell-Scripting**
 
