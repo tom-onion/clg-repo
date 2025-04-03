@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhayananth</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript,XML.**
+- 🌱 I’m currently learning **FullStack Web Dev**
 
-- 👨‍💻 All of my projects are available at [https://github.com/tom-onion/tom.git](https://github.com/tom-onion)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/tom-onion)
 
 - 💬 Ask me about **Cyber-Security,HTML,C,C++,Java,JavaScript,Linux,.NET,Shell-Scripting**
 
