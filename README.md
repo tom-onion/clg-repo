@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **nanthdhaya7@outlook.com**
 
-- ⚡ Fun fact **My biggest goal for this year is writing a custom code for Raspberry PI-zero**
+- ⚡ Fun fact **My biggest goal for this year is writing a custom code for Raspberry PI PICO W => [WRITTENED](https://github.com/tom-onion/Pentests/tree/main/Rubber%20Ducky%20Payloads))**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
